@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.8.5
-Release:        1
+Release:        2
 Summary:        Advanced API for creating custom synchronization primitives
 
 # Upstream license specification: Apache-2.0/MIT
